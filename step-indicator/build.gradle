@@ -1,8 +1,4 @@
-group = 'com.layer-net'
-version = '1.0.0'
-
 apply plugin: 'com.android.library'
-
 
 android {
     compileSdkVersion 25
